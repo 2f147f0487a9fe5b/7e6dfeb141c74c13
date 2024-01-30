@@ -8,8 +8,8 @@ __all__ = (
 #Name variable same as filename
 qualities = [
     {
-        'expression': '(?<=\"epic\"])()(?=])',
-        'value': ',["orange", "legendary"],["red", "mythical"]'
+        'expression': '(?<=\"purp-l\"])()(?=])',
+        'value': ',["orange", "legendary","orange-l"],["red", "mythical","red-l"]'
     },
     {
         'expression': '(?<=t=>)()(?=t>=\d+\?\d:)',
